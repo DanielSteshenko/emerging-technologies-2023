@@ -4,3 +4,13 @@
 Tasks -> [Tasks Link](https://github.com/DanielSteshenko/emerging-technologies-2023/blob/main/tasks.ipynb) <br>
 Project on Duetch's Algorithm -> [Project Link](https://github.com/DanielSteshenko/emerging-technologies-2023/blob/main/project.ipynb)
 
+## Getting Started
+
+To get started, follow the steps below: 
+
+- Clone this repository.
+    - ```git clone https://github.com/DanielSteshenko/emerging-technologies-2023.git```
+- Install the necessary requirements.
+    - ```pip install qiskit```
+- Finally, run the jupyter notebook and open the files within it.
+    - ```jupyter notebook```
