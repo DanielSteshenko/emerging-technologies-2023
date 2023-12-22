@@ -10,7 +10,7 @@ This repository contains two Jupyter Notebooks: one focused on Deutsch's Algorit
 
 ## Prerequisites
 
-1. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+1. [Git](https://git-scm.com/downloads)
 2. [Python 3.x & Pip](https://www.python.org/downloads/)
 3. [Jupyter Notebook](https://jupyter.org/install) or Any IDE like [Visual Studio Code](https://code.visualstudio.com/download)
 4. [Qiskit](https://docs.quantum.ibm.com/start/install)
